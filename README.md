@@ -1,16 +1,28 @@
-## Hi there 👋
+##👋 Hello!
 
-<!--
-**apatinon/apatinon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner Python developer 🐍 and a curious learner 📚  
+I enjoy building small projects and improving my programming skills every day.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm working on
+- Python projects
+- Data analysis
+- Git & GitHub practice
+
+---
+
+## 🧠 Interests
+- Programming
+- Machine Learning
+- Problem solving
+- Simulation
+---
+
+## 📫 Contact
+- GitHub: https://github.com/apatinon
+- LinkedIn: https://www.linkedin.com/in/andr%C3%A9s-pati%C3%B1o-112b43220
+- Gmail: apatinon@unal.edu.co
+---
+
+⭐ Thanks for visiting my profile! 🦫
